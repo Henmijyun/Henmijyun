@@ -6,10 +6,10 @@
 
 - :memo: こちらのGitHubは、**練習用**のソースコードやメモなどを保存するために、やっています。
 
-- 📫 メール：a1106671528@gmail.com　
+- 📫 メール：a1106671528@gmail.com　 ブログ：https://soukenki.github.io/
 - 🤝 よろしくお願いいたします。
 
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henmijyun&layout=compact)  
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soukenki&layout=compact&hide=HTML,JavaScript)  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CentOS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
