@@ -9,7 +9,9 @@
 - 📫 メール：a1106671528@gmail.com　 ブログ：https://soukenki.github.io/
 - 🤝 よろしくお願いいたします。
 
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soukenki&layout=compact&hide=HTML,JavaScript,CSS)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soukenki&hide=HTML,JavaScript,CSS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CentOS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
