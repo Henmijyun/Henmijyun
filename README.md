@@ -5,7 +5,7 @@
 -  :memo: こちらのGitHubは、**練習用**のソースコードやメモなどを保存するために、運用しています。
 - :sparkles: 現時点のGitHubでは、**C言語**([データ構造とアルゴリズム・練習](https://github.com/Henmijyun/Test_for_C))・**C++プログラミング**([練習](https://github.com/soukenki/Test_for_Cpp))・**LinuxCentOS 7.6環境で**([STLの下層の実現](https://github.com/soukenki/Test_for_Linux/tree/master/testCpp))などを保存し、オープンソースとなってます。
 
-- 🌱 今年から北陸大学の四年生ですが、金沢大学の理工学部へ一年間で特別聴講生として、アルゴリズムやソフトウェア運用などの授業を勉強してます。今年の勉強について、目標はSTM32組み込み技術を身につけることです（または、Linux組み込み技術です）。
+- 🌱 今年から北陸大学の四年生になりますが、金沢大学の理工学部へ一年間の特別聴講生として、アルゴリズムやソフトウェア運用などの授業を勉強しています。今年の勉強について、目標はSTM32組み込み技術を身につけることです（または、Linux組み込み技術です）。
 
 
 - 📫 メール：a1106671528@gmail.com　　 ブログ（更新は不定期:sweat_smile:）：https://soukenki.github.io/　
