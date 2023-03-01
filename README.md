@@ -3,13 +3,21 @@
 - :school: 北陸大学の情報系専門先生からIT情報について、様々な知識を教えて頂いて、プログラミングに興味を持たせました。
 - :mortar_board:現時点では、情報システム・データベース・**C言語**・**Linux**（Ubuntu(仮想環境)・CentOS(**Tencent Cloud**)・kali(仮想環境)）・アプリケーション開発・ネットワーク・**データ構造とアルゴリズム**・**C++プログラミング**などを勉強しました。
 
-- 🌱 今年から**北陸大学**の四年生になりますが、**金沢大学**の理工学部へ一年間の特別聴講生として、アルゴリズムやソフトウェア運用などの授業を勉強しています。今年の勉強について、目標は**STM32組み込み**技術を身につけることです（または、**Linux組み込み**技術です）。
+- 🌱 今年から**北陸大学**の四年生になりますが、**金沢大学**の理工学部へ一年間の特別聴講生として、アルゴリズムやソフトウェア運用などの授業を勉強しています。今年の勉強について、目標は **STM32**や**MCU51**など **組み込み**技術を身につけることです。
 
 <h3 align> :octocat: GitHubについて</h3>
 
 - :memo: こちらのGitHubは、**練習用**のソースコードやメモなどを保存するために、運用しています。
 
-- :sparkles: 現時点のGitHubでは、**C言語**([データ構造とアルゴリズム・練習](https://github.com/Henmijyun/Test_for_C))・**C++プログラミング**([練習](https://github.com/soukenki/Test_for_Cpp))・**LinuxCentOS 7.6環境(Tencent Cloud)で**([STLの下層の実現](https://github.com/soukenki/Test_for_CentOS7/tree/master/cpp_stl))などを保存し、オープンソースをしています。
+- :sparkles: 現時点のGitHubでは、
+  - [**データ構造とアルゴリズム**](https://github.com/soukenki/Algorithm)  
+  - [**C言語**](https://github.com/Henmijyun/Test_for_C)
+  - [**C++プログラミング**](https://github.com/soukenki/Test_for_Cpp)
+  - [**STLの下層**](https://github.com/soukenki/Test_for_CentOS7/tree/master/cpp_stl)
+  - [**LinuxCentOS 7.6環境(Tencent Cloud)でシステム管理**](https://github.com/soukenki/Test_for_CentOS7/tree/master/system)
+  - [**組み込みソフト**](https://github.com/soukenki/Embedded-Software)
+   
+   などのソースコードを保存し、オープンソースをしています。
 
 <h3 align>  📫  連絡方法</h3>
 
@@ -28,4 +36,5 @@
 
 <!---
 注释
+（または、**Linux組み込み**技術です）
 --->
