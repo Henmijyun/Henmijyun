@@ -9,13 +9,19 @@
 
 - :memo: こちらのGitHubは、**練習用**のソースコードやメモなどを保存するために、運用しています。
 
-- :sparkles: 現時点のGitHubでは、
-  - [**データ構造とアルゴリズム**](https://github.com/soukenki/Algorithm)  
-  - [**C言語**](https://github.com/Henmijyun/Test_for_C)
-  - [**C++プログラミング**](https://github.com/soukenki/Test_for_Cpp)
-  - [**STLの下層**](https://github.com/soukenki/Test_for_CentOS7/tree/master/cpp_stl)
-  - [**LinuxCentOS 7.6環境(Tencent Cloud)でシステム管理**](https://github.com/soukenki/Test_for_CentOS7/tree/master/system)
-  - [**組み込みソフト**](https://github.com/soukenki/Embedded-Software)
+- :sparkles: 現時点のGitHubでは、  
+  - **開発**  
+    - [**マルチスレッディングの環境における効率的な並行メモリプール**](https://github.com/soukenki/ConcurrentMemoryPool)   
+    - [**Linuxの環境におけるスレッドプール**](https://github.com/soukenki/Test_for_CentOS7/tree/master/system/thread/ThreadPool) 
+  
+  - **テキスト**    
+    - [**データ構造とアルゴリズム**](https://github.com/soukenki/Algorithm)  
+    - [**C言語**](https://github.com/Henmijyun/Test_for_C)
+    - [**C++プログラミング**](https://github.com/soukenki/Test_for_Cpp)
+    - [**STLの下層**](https://github.com/soukenki/Test_for_CentOS7/tree/master/cpp_stl)
+    - [**LinuxCentOS 7.6環境(Tencent Cloud)でシステム管理**](https://github.com/soukenki/Test_for_CentOS7/tree/master/system)
+    - [**組み込みソフト**](https://github.com/soukenki/Embedded-Software) 
+
    
    などのソースコードを保存し、オープンソースをしています。
 
