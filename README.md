@@ -11,7 +11,7 @@
 
 - :sparkles: 現時点のGitHubでは、  
   - **開発**
-    - [**web環境でプログラミング試験に向ける負荷分散のオンラインジャッジシステム**](https://github.com/soukenki/OnlineJudge)   
+    - [**プログラミングのオンライン試験システム**](https://github.com/soukenki/OnlineJudge)   
     - [**マルチスレッディングの環境における効率的な並行メモリプール**](https://github.com/soukenki/ConcurrentMemoryPool)   
     - [**Linuxの環境におけるスレッドプール**](https://github.com/soukenki/Test_for_CentOS7/tree/master/system/thread/ThreadPool)
     - [**TCPやUDPにおけるクラウドの通信システム**](https://github.com/soukenki/Linux_for_CentOS7/tree/master/internet)
